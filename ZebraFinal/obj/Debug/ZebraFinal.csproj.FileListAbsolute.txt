@@ -1,0 +1,14 @@
+C:\Users\Labinot\Desktop\ZebraFinal\ZebraFinal\bin\Debug\ZebraFinal.exe.config
+C:\Users\Labinot\Desktop\ZebraFinal\ZebraFinal\bin\Debug\ZebraFinal.exe
+C:\Users\Labinot\Desktop\ZebraFinal\ZebraFinal\bin\Debug\ZebraFinal.pdb
+C:\Users\Labinot\Desktop\ZebraFinal\ZebraFinal\obj\Debug\ZebraFinal.csprojAssemblyReference.cache
+C:\Users\Labinot\Desktop\ZebraFinal\ZebraFinal\obj\Debug\ZebraFinal.csproj.CoreCompileInputs.cache
+C:\Users\Labinot\Desktop\ZebraFinal\ZebraFinal\obj\Debug\ZebraFinal.exe
+C:\Users\Labinot\Desktop\ZebraFinal\ZebraFinal\obj\Debug\ZebraFinal.pdb
+D:\Fakulteti\Semestri 6\AI\Projekti\ZebraFinal\ZebraFinal\bin\Debug\ZebraFinal.exe.config
+D:\Fakulteti\Semestri 6\AI\Projekti\ZebraFinal\ZebraFinal\bin\Debug\ZebraFinal.exe
+D:\Fakulteti\Semestri 6\AI\Projekti\ZebraFinal\ZebraFinal\bin\Debug\ZebraFinal.pdb
+D:\Fakulteti\Semestri 6\AI\Projekti\ZebraFinal\ZebraFinal\obj\Debug\ZebraFinal.csprojAssemblyReference.cache
+D:\Fakulteti\Semestri 6\AI\Projekti\ZebraFinal\ZebraFinal\obj\Debug\ZebraFinal.csproj.CoreCompileInputs.cache
+D:\Fakulteti\Semestri 6\AI\Projekti\ZebraFinal\ZebraFinal\obj\Debug\ZebraFinal.exe
+D:\Fakulteti\Semestri 6\AI\Projekti\ZebraFinal\ZebraFinal\obj\Debug\ZebraFinal.pdb

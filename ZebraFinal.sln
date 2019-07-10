@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZebraFinal", "ZebraFinal\ZebraFinal.csproj", "{96771F9D-7024-4273-8807-2AC1BC31C955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96771F9D-7024-4273-8807-2AC1BC31C955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96771F9D-7024-4273-8807-2AC1BC31C955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96771F9D-7024-4273-8807-2AC1BC31C955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96771F9D-7024-4273-8807-2AC1BC31C955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD91C9FA-3D5D-4CC4-8172-516B7B58C20C}
+	EndGlobalSection
+EndGlobal
